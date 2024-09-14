@@ -1,3 +1,3 @@
 # Demo
 
-All successful people have a story
+All successful people have a story.
